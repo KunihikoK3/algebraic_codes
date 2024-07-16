@@ -1,7 +1,7 @@
 # Fdb version 4
-["pdflatex"] 1721118060.54696 "print.tex" "/home/neil/algebraic_codes/blueprint/print/print.pdf" "print" 1721118061.09861 0
-  "/home/neil/algebraic_codes/blueprint/print/print.aux" 1721118061.05312 649 3ea3cfa70879638492fb9a2ffa47383d "pdflatex"
-  "/home/neil/algebraic_codes/blueprint/print/print.out" 1721118061.05312 407 2710d573efb839a46b624cd429dcb1be "pdflatex"
+["pdflatex"] 1721124380.24222 "print.tex" "/home/neil/algebraic_codes/blueprint/print/print.pdf" "print" 1721124380.80483 0
+  "/home/neil/algebraic_codes/blueprint/print/print.aux" 1721124380.75139 830 2a457651f1900478b3dfc515a48a74e0 "pdflatex"
+  "/home/neil/algebraic_codes/blueprint/print/print.out" 1721124380.75139 407 2710d573efb839a46b624cd429dcb1be "pdflatex"
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136768653 1528 f853c4d1b4e0550255e02831fdc8496f ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam10.tfm" 1246382020 916 f87d7c45f9c908e672703b83b72241a3 ""
   "/usr/local/texlive/2024/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1246382020 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -83,12 +83,12 @@
   "/usr/local/texlive/2024/texmf-dist/web2c/texmf.cnf" 1713064664 41983 7ec6bfd6bf34339a61f0f08f42298e60 ""
   "/usr/local/texlive/2024/texmf-var/web2c/xetex/xelatex.fmt" 1713361331 10028500 a136745711d12ca296f062e7adf6a1dd ""
   "/usr/local/texlive/2024/texmf.cnf" 1713361317.78542 455 5b996dcaa0eb4ef14a83b026bc0a008c ""
-  "chapter/ch01introduction.tex" 1721117950.63315 461 1aaf59d8bab174bcc9123c8e18246c11 ""
-  "chapter/ch02reductions.tex" 1721117979.02314 617 6815eec5c8b7bf678af757848227c135 ""
+  "chapter/ch01introduction.tex" 1721119548.27271 468 b42f3f16d19ac42fe7a5bfa4bb8b736b ""
+  "chapter/ch02reductions.tex" 1721122585.63188 996 96b94620664eca37bbd3fb7a3ed0d6f3 ""
   "content.tex" 1721118027.05313 428 995076fc0aea3430dea10a4bbb45cfcc ""
   "macros/common.tex" 1721117549.23326 142 10e8f81f8b8dcf47997f6d1d7aa55e98 ""
-  "macros/print.tex" 1721117549.23326 1020 0aabb56773194b53a90bc4ad24bdebe3 ""
-  "print.tex" 1721117549.23326 1113 e3bfcf472df2b9b01ffbba182a8f96a0 ""
+  "macros/print.tex" 1721122384.45194 1208 253fb9fe97af89a4234e4f8e43b0ab72 ""
+  "print.tex" 1721122477.47191 1194 080a39e292859064a1cd00746bbc1704 ""
   (generated)
   "/home/neil/algebraic_codes/blueprint/print/print.aux"
   "/home/neil/algebraic_codes/blueprint/print/print.log"

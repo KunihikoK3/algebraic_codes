@@ -12,14 +12,14 @@
 <meta name="generator" content="plasTeX" />
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Overview</title>
+<title>Formalization of codes: Overview</title>
 <link rel="prev" href="sect0002.html" title="First reductions of the problem" />
 <link rel="up" href="sect0002.html" title="First reductions of the problem" />
-<link rel="stylesheet" href="styles/theme-white.css" />
+<link rel="stylesheet" href="styles/theme-blue.css" />
 <link rel="stylesheet" href="styles/amsthm.css" />
 <link rel="stylesheet" href="styles/showmore.css" />
 <link rel="stylesheet" href="styles/blueprint.css" />
-<link rel="stylesheet" href="styles/extra_styles.css" />
+<link rel="stylesheet" href="styles/stylecours.css" />
 </head>
 
 <body>
@@ -55,6 +55,99 @@
 <div class="main-text">
 <h1 id="a0000000004">2.1 Overview</h1>
 <p> The proof of Fermat’s Last Theorem is by contradiction. We assume that we have a counterexample \(a^n+b^n=c^n\), and manipulate it until it satisfies the axioms of a “Frey package”. From the Frey package we build a Frey curve – an elliptic curve defined over the rationals. We then look at a certain representation of a Galois group coming from this elliptic curve, and finally using two very deep and independent theorems (one due to Mazur, the other due to Wiles) we show that this representation is neither reducible or irreducible, a contradiction. </p>
+<div class="lemma_thmwrapper theorem-style-plain" id="lem:format">
+  <div class="lemma_thmheading">
+    <span class="lemma_thmcaption">
+    Lemma
+    </span>
+    <span class="lemma_thmlabel">2.1</span>
+    <div class="thm_header_extras">
+
+        </div>
+    <div class="thm_header_hidden_extras">
+
+    <a class="icon proof" href="sect0003.html#lem:format">#</a>
+    
+    
+    
+        </div>
+  </div>
+  <div class="lemma_thmcontent">
+  <div class="displaymath" id="a0000000005">
+  \[  x^2-1=(x+1)(x-1)  \]
+</div>
+
+
+  </div>
+</div>
+<div class="theorem_thmwrapper theorem-style-plain" id="lem:format1">
+  <div class="theorem_thmheading">
+    <span class="theorem_thmcaption">
+    Theorem
+    </span>
+    <span class="theorem_thmlabel">2.2</span>
+    <div class="thm_header_extras">
+
+        </div>
+    <div class="thm_header_hidden_extras">
+
+    <a class="icon proof" href="sect0003.html#lem:format1">#</a>
+    
+    
+    
+        </div>
+  </div>
+  <div class="theorem_thmcontent">
+  <div class="displaymath" id="a0000000006">
+  \[  x^2-1=(x+1)(x-1)  \]
+</div>
+
+
+  </div>
+</div>
+<div class="lemma_thmwrapper theorem-style-plain" id="FermatLastTheorem.of_odd_primes">
+  <div class="lemma_thmheading">
+    <span class="lemma_thmcaption">
+    Lemma
+    </span>
+    <span class="lemma_thmlabel">2.3</span>
+    <div class="thm_header_extras">
+
+    
+    ✓
+        </div>
+    <div class="thm_header_hidden_extras">
+
+    <a class="icon proof" href="sect0003.html#FermatLastTheorem.of_odd_primes">#</a>
+    
+    
+    
+    <button class="modal lean">L∃∀N</button>
+        <div class="modal-container">
+      <div class="modal-content">
+        <header>
+          <h1>Lean declarations</h1>
+          <button class="closebtn"><svg  class="icon icon-cross "><use xlink:href="symbol-defs.svg#icon-cross"></use></svg>
+</button>
+        </header>
+        
+        <ul class="uses">
+          
+          <li><a href="https://KunihikoK3.github.io/algebraic_codes/docs/find/#doc/FermatLastTheorem.of_odd_primes" class="lean_decl">FermatLastTheorem.of_odd_primes</a></li>
+          
+        </ul>
+    
+      </div>
+    </div>
+
+    
+        </div>
+  </div>
+  <div class="lemma_thmcontent">
+  <p>If there is a counterexample to Fermat’s Last Theorem, then there is a counterexample \(a^p+b^p=c^p\) with \(p\) an odd prime. </p>
+
+  </div>
+</div>
 
 </div> <!--main-text -->
 </div> <!-- content-wrapper -->
